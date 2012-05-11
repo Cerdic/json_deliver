@@ -1,0 +1,14 @@
+<paquet
+	prefix="jd"
+	categorie="outil"
+	version="0.1.0"
+	etat="test"
+	compatibilite="[3.0.0-beta;["
+>
+
+	<nom>Json Deliver</nom>
+	<auteur lien="http://www.yterium.com">C&#233;dric Morin</auteur>
+	<licence>GPL</licence>
+
+
+</paquet>

@@ -1,0 +1,17 @@
+<BOUCLE_art(ARTICLES){id_article}>[(#ARRAY{
+id_article,[(#ID_ARTICLE)],
+id_rubrique,[(#ID_RUBRIQUE)],
+id_secteur,[(#ID_SECTEUR)],
+titre,[(#TITRE)],
+surtitre,[(#SURTITRE)],
+soustitre,[(#SOUSTITRE)],
+auteurs,[(#LESAUTEURS|supprimer_tags)],
+url,[(#URL_ARTICLE|url_absolue)],
+intro,[(#INTRODUCTION)],
+chapo,[(#CHAPO)],
+texte,[(#TEXTE)],
+ps,[(#PS)],
+date,[(#DATE)],
+nom_site,[(#NOM_SITE)],
+url_site,[(#URL_SITE)],
+}|json_encode_html)]</BOUCLE_art>
