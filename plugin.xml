@@ -1,0 +1,10 @@
+<plugin>
+  <nom>Json Deliver</nom>
+  <auteur>C&#233;dric Morin</auteur>
+  <version>0.1.0</version>
+  <etat>test</etat>
+  <fonctions>jd_fonctions.php</fonctions>
+  <prefix>jd</prefix>
+
+	<categorie>outils</categorie>
+</plugin>
